@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-kuchnia--kitchen",
-      "name": "Kuchnia  (Kitchen)",
+      "name": "Kuchnia (Kitchen)",
       "levels": [
         {
           "tileSize": 256,
@@ -52,7 +52,7 @@ var APP_DATA = {
     },
     {
       "id": "1-salon1-living-room",
-      "name": "Salon1 (Living room)",
+      "name": "Salon 1 (Living room 1)",
       "levels": [
         {
           "tileSize": 256,
@@ -90,7 +90,7 @@ var APP_DATA = {
     },
     {
       "id": "2-salon2-living-room",
-      "name": "Salon2 (Living room)",
+      "name": "Salon 2 (Living room 2)",
       "levels": [
         {
           "tileSize": 256,
